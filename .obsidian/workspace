@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "5830d11553cb88de",
+    "id": "13d97c2e7ba8445e",
     "type": "split",
     "children": [
       {
-        "id": "261db6acf67e1972",
+        "id": "9fd5e3445f128b12",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Github/repositories.md",
+            "file": "MicroBits/MicroBits.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "056de0bfd8389d79",
+    "id": "f39d9371e5b19b34",
     "type": "split",
     "children": [
       {
-        "id": "ba7ff1962cd46114",
+        "id": "e4b83cc129d25dac",
         "type": "tabs",
         "children": [
           {
-            "id": "d1035e60ee647061",
+            "id": "c4205ee5966d0700",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "dbc535446dd05f01",
+            "id": "2edb96bd9e484113",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "03cb480eee001332",
+            "id": "2c65d493b38983aa",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,20 +64,28 @@
     "width": 300
   },
   "right": {
-    "id": "8c6410a9ae13f627",
+    "id": "330623949b012e29",
     "type": "split",
     "children": [
       {
-        "id": "5924bca3501f280c",
+        "id": "5f0fdd0c693012e9",
         "type": "tabs",
         "children": [
           {
-            "id": "371d141b2958b14e",
+            "id": "c58154357a9b9ab3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "211f8b0047f66106",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github/repositories.md",
+                "file": "MicroBits/MicroBits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,19 +97,19 @@
             }
           },
           {
-            "id": "ba5782dcf7ce4b59",
+            "id": "c48326a10a63fb85",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github/repositories.md",
+                "file": "MicroBits/MicroBits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c4368cf49608ac2f",
+            "id": "bb66ace469fc83c1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,40 +120,31 @@
             }
           },
           {
-            "id": "38b2710964bd0b8f",
+            "id": "3653972d5fcaba60",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github/repositories.md"
+                "file": "MicroBits/MicroBits.md"
               }
-            }
-          },
-          {
-            "id": "5e304d669414dd29",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 300,
+    "collapsed": true
   },
-  "active": "261db6acf67e1972",
+  "active": "9fd5e3445f128b12",
   "lastOpenFiles": [
-    "Github/Git.md",
-    "Github/My repos.md",
-    "Github/master branch.md",
+    "Github/staging area.md",
     "Github/Testing.md",
-    "Github/Github.md",
-    "Github/git status.md",
-    "Github/git config.md",
-    "Github/git commit.md",
-    "Github/git add.md",
-    "Github/commits.md"
+    "Github/repositories.md",
+    "2022-09-13.md",
+    "Exapunks/Exablaster/Exablaster Highest level.md",
+    "AGI/Machine Learning/Gradient Descent.md",
+    "AGI/Machine Learning/generalization.md",
+    "MicroBits/MicroBits.md"
   ]
 }
