@@ -1,0 +1,1 @@
+Compares local to remote and pulls all changed instances.

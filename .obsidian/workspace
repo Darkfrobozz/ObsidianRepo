@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "5830d11553cb88de",
+    "type": "split",
+    "children": [
+      {
+        "id": "261db6acf67e1972",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Github/My repos.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "056de0bfd8389d79",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba7ff1962cd46114",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1035e60ee647061",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbc535446dd05f01",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03cb480eee001332",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c6410a9ae13f627",
+    "type": "split",
+    "children": [
+      {
+        "id": "5924bca3501f280c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "371d141b2958b14e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Github/My repos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba5782dcf7ce4b59",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Github/My repos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4368cf49608ac2f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "38b2710964bd0b8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Github/My repos.md"
+              }
+            }
+          },
+          {
+            "id": "5e304d669414dd29",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "active": "d1035e60ee647061",
+  "lastOpenFiles": [
+    "Github/repositories.md",
+    "Github/Git.md",
+    "Github/git config.md",
+    "Github/branches.md",
+    "Github/git add.md",
+    "Github/git commit.md",
+    "Github/git status.md",
+    "Github/push.md",
+    "Github/pull.md",
+    "Github/staging area.md"
+  ]
+}

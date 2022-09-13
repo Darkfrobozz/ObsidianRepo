@@ -1,0 +1,1 @@
+A checkpoint, that you can return to if thing stops working, you don't always save in video games but you can make a checkpoint when things are going good. That is when you make a commit. Quicksave!

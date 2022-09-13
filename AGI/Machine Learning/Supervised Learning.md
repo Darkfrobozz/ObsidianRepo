@@ -1,0 +1,1 @@
+This uses a dataset constructed by humans where datapoints have labels and the objective for the machine learning agent is to determine what datapoints have which labels. Like a kind of memory.

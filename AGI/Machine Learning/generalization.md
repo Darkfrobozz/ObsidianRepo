@@ -1,0 +1,1 @@
+The idea that the datasets or environment from which the agent has learned from generalizes to datasets that have never been seen before is the goal of generalization in machine learning.

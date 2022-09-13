@@ -1,0 +1,3 @@
+The starting weights are random but the deep learning agent updates them each step in the direction of the gradient which is most likely decided by the results of its actions and little by little they get better results due to more optimized weights. For example, say the results of current strength, is elimination of cat but it just wants to pick up the cat, then the gradient would be towards the direction which would lower the force used to pick up the cat. Each step would then decrease the force til it no longer is able to pick up the cat and the gradient reverses.
+
+An algorithm commonly used in this endavour is [[backpropagation]].

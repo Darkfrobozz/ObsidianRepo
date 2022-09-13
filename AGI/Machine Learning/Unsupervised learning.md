@@ -1,0 +1,1 @@
+The tediousness of making a dataset is combatted by unsupervised learning, where we try to take advantage of smaller datasets by expanding them through different means that do not require gathering more data.

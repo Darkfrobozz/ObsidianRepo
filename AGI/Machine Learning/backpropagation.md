@@ -1,0 +1,1 @@
+To current understanding, backpropagation parallises the work of the deep learning agent by working layer by layer.
