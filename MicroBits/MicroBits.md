@@ -1,0 +1,1 @@
+Micro Bits is a project in my school that is meant as an introduction to programming and project leadership!
