@@ -1,0 +1,1 @@
+An argument is a value supplied to a function.

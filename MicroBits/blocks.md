@@ -20,4 +20,10 @@ Blocks is a good situation to test the [[SARA]] notation as first of all
 
 You can copy blocks and remove them.
 
+It can also be translated into a programming language
 
+You can create your own functions that can be called upon in other blocks by selecting functions from advanced menu. These functions can be made up by [[parameters]] and, then, called upon with [[arguments]]. These functions can have an output or just side effects.
+
+A nice simple program that utilizes good coding is the [[turning of an arrow]]
+
+In blocks [[arrays]] can be found in advanced
