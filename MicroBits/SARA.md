@@ -1,0 +1,4 @@
+- sekvens
+- alternativ
+- repetition
+- abstraktion

@@ -1,1 +1,2 @@
-Micro Bits is a project in my school that is meant as an introduction to programming and project leadership! Okay, maybe this is correct?
+Micro Bits is a raspberry like thing that can hold programming and a way to control them is through the programming language [[blocks]].
+

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MicroBits/MicroBits.md",
+            "file": "MicroBits/blocks.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MicroBits/MicroBits.md",
+                "file": "MicroBits/blocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MicroBits/MicroBits.md",
+                "file": "MicroBits/blocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MicroBits/MicroBits.md"
+                "file": "MicroBits/blocks.md"
               }
             }
           }
@@ -138,13 +138,15 @@
   },
   "active": "9fd5e3445f128b12",
   "lastOpenFiles": [
+    "MicroBits/SARA.md",
+    "MicroBits/blocks.md",
+    "MicroBits/MicroBits.md",
+    "MicroBits/Simulerad microbit.md",
     "Github/staging area.md",
     "Github/Testing.md",
     "Github/repositories.md",
     "2022-09-13.md",
     "Exapunks/Exablaster/Exablaster Highest level.md",
-    "AGI/Machine Learning/Gradient Descent.md",
-    "AGI/Machine Learning/generalization.md",
-    "MicroBits/MicroBits.md"
+    "AGI/Machine Learning/Gradient Descent.md"
   ]
 }
