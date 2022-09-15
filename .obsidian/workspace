@@ -7,8 +7,10 @@
         "id": "9fd5e3445f128b12",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "image",
+          "state": {
+            "file": "MicroBits/Drawing 2022-09-15 14.50.16.excalidraw.png"
+          }
         }
       }
     ],
@@ -57,7 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 269.5
   },
   "right": {
     "id": "330623949b012e29",
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MicroBits/Drawing 2022-09-15 14.50.16.excalidraw.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MicroBits/Drawing 2022-09-15 14.50.16.excalidraw.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,27 +122,30 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MicroBits/Drawing 2022-09-15 14.50.16.excalidraw.png"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 301.5,
     "collapsed": true
   },
-  "active": "9fd5e3445f128b12",
+  "active": "c4205ee5966d0700",
   "lastOpenFiles": [
-    "MicroBits/arrays.md",
-    "MicroBits/blocks.md",
-    "MicroBits/turning of an arrow.md",
-    "MicroBits/MicroBits.md",
-    "MicroBits/parameters.md",
-    "MicroBits/arguments.md",
-    "MicroBits/Simulerad microbit.md",
-    "MicroBits/SARA.md",
-    "Github/staging area.md",
-    "Github/Testing.md"
+    "MicroBits/Drawing 2022-09-15 14.50.16.excalidraw 1.png",
+    "MicroBits/Drawing 2022-09-15 14.50.16.excalidraw.png",
+    "MicroBits/Drawing 2022-09-15 14.50.16.excalidraw.md",
+    "Pasted Image 20220913185258_122.png",
+    "Untitled.png",
+    "w_1250.png",
+    "w_1264.png",
+    "LateX/LaTeX.md",
+    "LateX/Tabular example.md",
+    "Articles/Machine Learning Evaluation/TheoryCwS_sketch.md"
   ]
 }

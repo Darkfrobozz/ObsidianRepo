@@ -23,3 +23,11 @@ There are also the tasks of machine, the what they are trying to achieve.
 
 In all of these the issue of [[task design]] is of great importance.
 Moreover, to be effective without our supervision [[generalization]] is key (this can also be called transfer altho not completely the same).
+
+There are also three methods provided by the article [[On the possibilities on coding without syntax]]:
+
+[[Convultional neural networks]]
+
+[[bidirectional long short term memory med attention]]
+
+[[random forest]]
