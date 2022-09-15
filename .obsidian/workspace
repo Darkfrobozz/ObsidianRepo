@@ -7,9 +7,11 @@
         "id": "9fd5e3445f128b12",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "MicroBits/Drawing 2022-09-15 14.50.16.excalidraw.png"
+            "file": "IntroCourse/Editors/IDE.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MicroBits/Drawing 2022-09-15 14.50.16.excalidraw.png",
+                "file": "IntroCourse/Editors/IDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MicroBits/Drawing 2022-09-15 14.50.16.excalidraw.png",
+                "file": "IntroCourse/Editors/IDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MicroBits/Drawing 2022-09-15 14.50.16.excalidraw.png"
+                "file": "IntroCourse/Editors/IDE.md"
               }
             }
           }
@@ -135,17 +137,17 @@
     "width": 301.5,
     "collapsed": true
   },
-  "active": "c4205ee5966d0700",
+  "active": "9fd5e3445f128b12",
   "lastOpenFiles": [
-    "MicroBits/Drawing 2022-09-15 14.50.16.excalidraw 1.png",
-    "MicroBits/Drawing 2022-09-15 14.50.16.excalidraw.png",
-    "MicroBits/Drawing 2022-09-15 14.50.16.excalidraw.md",
-    "Pasted Image 20220913185258_122.png",
-    "Untitled.png",
-    "w_1250.png",
-    "w_1264.png",
-    "LateX/LaTeX.md",
-    "LateX/Tabular example.md",
-    "Articles/Machine Learning Evaluation/TheoryCwS_sketch.md"
+    "IntroCourse/Editors/Editors.md",
+    "IntroCourse/Editors/Modal.md",
+    "IntroCourse/Editors/IDE.md",
+    "IntroCourse/Editors/Nano.md",
+    "IntroCourse/Editors/VS code.md",
+    "IntroCourse/Editors/Eclipse.md",
+    "Projects/personalized programming language.md",
+    "Exapunks/Exas.md",
+    "IntroCourse/MicroBits/MicroBits.md",
+    "IntroCourse/MicroBits/GeneralizeMicroProject.md"
   ]
 }

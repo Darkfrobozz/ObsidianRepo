@@ -15,3 +15,5 @@ You can structure your text with sections and laTeX will automatically connect t
 You can make a list with the environment "itemize"
 
 You can make a table with the environment tabular, you can decide how it will look by providing arguments about the columns when you initialize the table. You can make lines between row with \hline - horizontal line. - [[Tabular example]] 
+
+A very nice package is [[bibtex]].
