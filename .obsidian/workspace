@@ -7,11 +7,9 @@
         "id": "9fd5e3445f128b12",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "IntroCourse/Editors/IDE.md",
-            "mode": "source",
-            "source": false
+            "file": "IntroCourse/MicroBits/Generalized Modul.md"
           }
         }
       }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IntroCourse/Editors/IDE.md",
+                "file": "IntroCourse/MicroBits/Generalized Modul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IntroCourse/Editors/IDE.md",
+                "file": "IntroCourse/MicroBits/Generalized Modul.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IntroCourse/Editors/IDE.md"
+                "file": "IntroCourse/MicroBits/Generalized Modul.md"
               }
             }
           }
@@ -139,15 +137,15 @@
   },
   "active": "9fd5e3445f128b12",
   "lastOpenFiles": [
+    "IntroCourse/MicroBits/GeneralizeMicroProject.md",
+    "IntroCourse/Editors/IDE.md",
     "IntroCourse/Editors/Editors.md",
     "IntroCourse/Editors/Modal.md",
-    "IntroCourse/Editors/IDE.md",
     "IntroCourse/Editors/Nano.md",
     "IntroCourse/Editors/VS code.md",
     "IntroCourse/Editors/Eclipse.md",
     "Projects/personalized programming language.md",
     "Exapunks/Exas.md",
-    "IntroCourse/MicroBits/MicroBits.md",
-    "IntroCourse/MicroBits/GeneralizeMicroProject.md"
+    "IntroCourse/MicroBits/MicroBits.md"
   ]
 }
