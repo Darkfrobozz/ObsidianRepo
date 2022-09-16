@@ -1,0 +1,1 @@
+Flowcharts on [[Algorithms]] are usually based on describing each step and marking the next step with arrows from current step. The arrows can also be conditional, where different answers are bound to different arrows.

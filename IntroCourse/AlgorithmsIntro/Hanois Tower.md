@@ -1,0 +1,1 @@
+You have three sticks and rings of different sizes loaded onto these sticks. In the beginning all rings are loaded onto a stick in ascending size. Rings can never be moved above a ring of lower size. Try to move the pile from one stick to another
