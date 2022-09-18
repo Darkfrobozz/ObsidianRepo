@@ -7,7 +7,7 @@ Two ways are presented for shaping algorithms after a certain problem:
 - Top-down
 - Bottom-up
 
-It is also specified that an important aspect of algorithm building is to not completly rely on one of these but combine them with a process of identifying what abstractions / functions (says and in [[AlgorithmsPdf1.pdf]]) are necessary.
+It is also specified that an important aspect of algorithm building is to not completely rely on one of these but combine them with a process of identifying what abstractions / functions (says and in [[AlgorithmsPdf1.pdf]]) are necessary.
 
 Ways of building algorithms
 - [[Recursion]]

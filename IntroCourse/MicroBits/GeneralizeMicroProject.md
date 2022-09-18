@@ -7,3 +7,8 @@ The plan here is to create a generalization of [[MicroProject_Sketch]].  This wi
 
 
 [[Exas]] are a lot better constructed.... Pls improve communication and functionality configuration... debugger is super poor as well, also, why does it lag so much, it is simulating like nothing? Why, why, why???? I am very disappointed in this system.
+
+If I work with this system again, I will approach it from a very different angle:
+
+1. Have a main loop that everything happens in.
+2. Have inputs registered to a memory instead of executing code in the input sections!

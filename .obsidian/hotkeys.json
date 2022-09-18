@@ -1,1 +1,9 @@
-{}
+{
+  "app:open-help": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "editor:swap-line-up": []
+}
