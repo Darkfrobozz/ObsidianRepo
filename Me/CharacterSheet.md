@@ -7,7 +7,9 @@ I will start with what I classify as my positive traits
 - [[Reflective]] 
 - [[Love]]
 - [[Adventure]]
+- [[Playful]]
 
 
 These are my negative traits:
 - [[Impulsiveness]]
+- [[Rebel]]

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Me/CharacterSheet.md",
+            "file": "WeeklyNotes/DailyNotes/2022-09-19.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 271.5
   },
   "right": {
     "id": "330623949b012e29",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Me/CharacterSheet.md",
+                "file": "WeeklyNotes/DailyNotes/2022-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Me/CharacterSheet.md",
+                "file": "WeeklyNotes/DailyNotes/2022-09-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,28 +125,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Me/CharacterSheet.md"
+                "file": "WeeklyNotes/DailyNotes/2022-09-19.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 297.5
   },
   "active": "ed1543d4d1cc3629",
   "lastOpenFiles": [
-    "Me/Impulsiveness.md",
+    "AGI/Machine Learning/3Blue1BrownNeuralNetwork.md",
+    "IntroCourse/AlgorithmsIntro/Divide and conquer.md",
+    "IntroCourse/AlgorithmsIntro/flowchart.md",
+    "IntroCourse/AlgorithmsIntro/Hanois Tower.md",
+    "IntroCourse/AlgorithmsIntro/Recursion.md",
+    "IntroCourse/AlgorithmsIntro/Algorithms.md",
+    "IntroCourse/AlgorithmsIntro/AlgorithmsPdf1.pdf",
     "Me/CharacterSheet.md",
-    "Me/Adventure.md",
-    "Me/Love.md",
-    "Me/Reflective.md",
     "Me/Order.md",
-    "Me/The Mission.md",
-    "Templates/Traits.md",
-    "Templates/DailyNoteTemplate.md",
-    "WeeklyNotes/DailyNotes/2022-09-18.md"
+    "Me/Impulsiveness.md"
   ]
 }

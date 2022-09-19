@@ -25,5 +25,5 @@
 5. Algo(A, B)
 	1. Is empty(A)
 		1. True -> Sluta algoritmen här
-		2. False -> spara head i x, hugg och kör Algo(A, B)
+		2. False -> spara head i x, hugg A och kör Algo(A, B)
 	2. Cons(x, B) ## lista B borde nu vara A + B med A först

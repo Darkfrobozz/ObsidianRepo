@@ -11,7 +11,7 @@ However, I do believe that too strict of a concern on order can be very limiting
 
 The reason I think that it can be limiting is because a misinterpretation of order as things should be the same. No, order is flexible, order is a constant drive towards efficiency, maxing your productivity within any certain area. 
 
-That means just because something is in order to some person does not mean it is to another. If you organized authors in order of the first word that usually is not a good way to optimize whatever endeavour you want to pursue with books. Therefore, perhaps what I really speak of is motivated order. Areas of order can be the following:
+That means just because something is in order to some person does not mean it is to another. If you organized authors in order of the first word in their book that usually is not a good way to optimize whatever endeavour you want to pursue with books. Therefore, perhaps what I really speak of is motivated order. Areas of order can be the following:
 
 - Kitchen
 - Physical room
